@@ -2,11 +2,11 @@
 # Weather-app
 Create a weather application using React JS
 =======
+>>>>>>>>>>>> **Demo Link **- https://weather-app-bay-alpha-67.vercel.app/      <<<<<<<<<<<<<<<<<<<<<<<<<<
 # ReactJS Weather App
 
-Welcome to the ReactJS Weather App project! This application was built as part of a tutorial on my YouTube channel, [Code Explained](https://www.youtube.com/@CodeExplained). In this project, we will create a weather app using ReactJS and the Meteosource Weather API.
+Welcome to the ReactJS Weather App project!  In this project, I create a weather app using ReactJS and the Meteosource Weather API.
 
-Check out the full tutorial on YouTube: [ReactJS Weather App Tutorial](https://youtu.be/YxTkX_DDSGs).
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/reactjs-weather-app.git
+    git clone https://github.com/Krushna58/Weather-app.git
     cd reactjs-weather-app
     ```
 
@@ -93,11 +93,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch: `git push origin feature/my-new-feature`.
 5. Submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+-------------------------------------------------------------------------------------------------------------------------------
 
----
-
-Happy coding! If you have any questions, feel free to reach out or leave a comment on the [YouTube tutorial](https://youtu.be/YxTkX_DDSGs).
->>>>>>> b0d89ca (first commit)
+Happy coding! If you have any questions, feel free to reach out or leave a comment.
+>>>>>> (first commit)
